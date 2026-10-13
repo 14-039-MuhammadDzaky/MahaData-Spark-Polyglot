@@ -1,8 +1,8 @@
 # Replikasi Eksperimen PolyFuseQL: Evaluasi Performa Hybrid RDBMS & NoSQL Menggunakan PySpark
 
-Nama          : Muhammad Dzaky
-NIM           :123140039
-Mata Kuliah   : MahaData/Big Data
+- Nama          : Muhammad Dzaky
+- NIM           :123140039
+- Mata Kuliah   : MahaData/Big Data
 
 Repositori ini berisi kode dan artefak replikasi parsial untuk evaluasi performa arsitektur *Polyglot Persistence* (hybrid RDBMS/NoSQL) dengan *query engine* **PySpark SQL**. Eksperimen ini menggunakan dataset standar industri TPC-H ($SF=0.01$).
 
